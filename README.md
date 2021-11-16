@@ -1,18 +1,15 @@
-# Travel Advisor
+# 旅行指南 Travel Advisor
 
 ![Travel Advisor](https://i.ibb.co/qph2cZn/image.pngg)
 
-## Introduction
-Build and Deploy an advanced Travel Companion Application using Google Maps. With Geolocation, Google Maps API, Searching for places, Fetching restaurants, hotels and attractions based on location from specialized Rapid APIs, data filtering and much more, this Travel Advisor App is the best Maps Application 
+## 介绍
+构建旅行指南， 使用 Google Maps 和 Geolocation， Google Maps Api， 搜索地址，根据定位来获取餐厅，酒店和景点的信息，并可以过滤和筛选的功能
 
-files of notes1-7.md is my process of coding including idea and details 
+项目过程 notes1-7.md
 
-this projects:
-- Advanced React Best Practices such as folder & file structure, hooks and refs
-- Creating a User Interface using Material UI
-- Working with Google Maps API
-- And most importantly fetching data from unlimited sources using RapidAPI
-- Essentially, you'll become the master of working with APIs
+项目工具: 
+- React Hooks, ES6, Material UI
+- Google Maps API
 
 [RapidAPI](https://rapidapi.com/hub?utm_source=youtube.com/JavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel)
 [Travel Advisor API](https://rapidapi.com/apidojo/api/travel-advisor?utm_source=youtube.com/JavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel)
